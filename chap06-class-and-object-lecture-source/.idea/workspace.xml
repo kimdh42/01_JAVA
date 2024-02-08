@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5df18546-d8af-4ae5-b20f-fb76decb279b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/.gradle/8.4/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/.gradle/8.4/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/.gradle/8.4/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/.gradle/8.4/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/.gradle/8.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/.gradle/8.4/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/.gradle/8.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/.gradle/8.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/.gradle/8.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/.gradle/8.4/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/build/classes/java/main/com/ohgiraffers/section01/conditional/A_if.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/build/classes/java/main/com/ohgiraffers/section01/conditional/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/build/classes/java/main/com/ohgiraffers/section01/conditional/B_ifElse.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/build/classes/java/main/com/ohgiraffers/section01/conditional/C_ifElseif.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/build/classes/java/main/com/ohgiraffers/section01/conditional/D_switch.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/build/classes/java/main/com/ohgiraffers/section02/looping/A_for.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/build/classes/java/main/com/ohgiraffers/section02/looping/A_nestedFor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/build/classes/java/main/com/ohgiraffers/section02/looping/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/build/classes/java/main/com/ohgiraffers/section02/looping/B_while.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/build/classes/java/main/com/ohgiraffers/section02/looping/C_doWhile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/build/classes/java/main/com/ohgiraffers/section03/branching/A_break.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/build/classes/java/main/com/ohgiraffers/section03/branching/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/build/classes/java/main/com/ohgiraffers/section03/branching/B_continue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/build/classes/java/main/com/ohgiraffers/section03/practice_test/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/build/tmp/compileJava/compileTransaction/stash-dir/Application.class.uniqueId1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/build/tmp/compileJava/compileTransaction/stash-dir/B_continue.class.uniqueId0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap04-control-flow-lecture-source/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/.gradle/8.4/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/.gradle/8.4/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/.gradle/8.4/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/.gradle/8.4/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/.gradle/8.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/.gradle/8.4/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/.gradle/8.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/.gradle/8.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/.gradle/8.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/.gradle/8.4/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/build/classes/java/main/com/ohgiraffers/section01/array/Application1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/build/classes/java/main/com/ohgiraffers/section01/array/Application2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/build/classes/java/main/com/ohgiraffers/section01/array/Application3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/build/classes/java/main/com/ohgiraffers/section01/array/Application4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/build/classes/java/main/com/ohgiraffers/section02/demensional/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/build/classes/java/main/com/ohgiraffers/section03/copy/Application1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/build/classes/java/main/com/ohgiraffers/section03/copy/Application2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/build/classes/java/main/com/ohgiraffers/section04/sort/Appilcation1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/build/classes/java/main/com/ohgiraffers/section04/sort/Application2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/build/classes/java/main/com/ohgiraffers/section04/sort/Application3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/build/tmp/compileJava/compileTransaction/stash-dir/Application3.class.uniqueId0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.4/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.4/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.4/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.4/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/8.4/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_5_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_api_5_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_engine_5_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_jupiter_junit_jupiter_params_5_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_platform_junit_platform_commons_1_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_junit_platform_junit_platform_engine_1_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/chap06-class-and-object-lecture-source.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/chap06-class-and-object-lecture-source.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/ohgiraffers/section01/user_type/Application1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/ohgiraffers/section01/user_type/Member.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/ohgiraffers/section02/encapsulation/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/ohgiraffers/section02/encapsulation/Monster.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/ohgiraffers/section02/encapsulation/problem1/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/ohgiraffers/section02/encapsulation/problem1/Monster.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/ohgiraffers/section02/encapsulation/problem2/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/ohgiraffers/section02/encapsulation/problem2/Monster.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/ohgiraffers/section02/encapsulation/solution1/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/ohgiraffers/section02/encapsulation/solution1/Monster.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/ohgiraffers/section02/encapsulation/solution2/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/java/main/com/ohgiraffers/section02/encapsulation/solution2/Monster.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap06-class-and-object-lecture-source.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/encapsulation/problem1/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/encapsulation/problem1/Monster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/encapsulation/problem2/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/encapsulation/problem2/Monster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/encapsulation/solution1/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/encapsulation/solution1/Monster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/encapsulation/solution2/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ohgiraffers/section02/encapsulation/solution2/Monster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.ohgiraggers.test1/.gradle/8.4/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.ohgiraggers.test1/.gradle/8.4/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.ohgiraggers.test1/.gradle/8.4/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.ohgiraggers.test1/.gradle/8.4/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.ohgiraggers.test1/.gradle/8.4/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.ohgiraggers.test1/.gradle/8.4/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.ohgiraggers.test1/.gradle/8.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.ohgiraggers.test1/.gradle/8.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.ohgiraggers.test1/.gradle/8.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.ohgiraggers.test1/.gradle/8.4/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.ohgiraggers.test1/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.ohgiraggers.test1/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.ohgiraggers.test1/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.ohgiraggers.test1/.gradle/file-system.probe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.ohgiraggers.test1/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.ohgiraggers.test1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.ohgiraggers.test1/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.ohgiraggers.test1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.ohgiraggers.test1/build/classes/java/main/com/ohgiraffers/test1/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.ohgiraggers.test1/build/classes/java/main/com/ohgiraffers/test1/TestMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.ohgiraggers.test1/build/classes/java/main/com/ohgiraffers/test2/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.ohgiraggers.test1/build/tmp/compileJava/compileTransaction/stash-dir/Application.class.uniqueId0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../com.ohgiraggers.test1/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap02-operator-lecture-source/src/main/java/com/ohgiraffers/section06" beforeDir="false" afterPath="$PROJECT_DIR$/../chap02-operator-lecture-source/src/main/java/com/ohgiraffers/section06" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2bmzf8s6EhdMYxExT9U6XsGWVx9" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Application.executor": "Run",
+    "Application.TEST.executor": "Run",
+    "Gradle.chap06-class-and-object-lecture-source [:Application.main()].executor": "Run",
+    "Gradle.chap06-class-and-object-lecture-source [:Application1.main()].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/dev/lecture_code/JavaFoundation/chap07-object-array-lecture-source",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/dev/lecture_code/JavaFoundation/chap06-class-and-object-lecture-source/src/main/java/org/example/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-temurin-17.0.10-f644763e9732-8a10ee56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5df18546-d8af-4ae5-b20f-fb76decb279b" name="Changes" comment="" />
+      <created>1706835145146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706835145146</updated>
+      <workItem from="1706835146184" duration="4431000" />
+      <workItem from="1706839585805" duration="20868000" />
+      <workItem from="1707092847989" duration="12692000" />
+      <workItem from="1707107002355" duration="7922000" />
+      <workItem from="1707180121029" duration="18000000" />
+      <workItem from="1707298848839" duration="58000" />
+      <workItem from="1707298924225" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
