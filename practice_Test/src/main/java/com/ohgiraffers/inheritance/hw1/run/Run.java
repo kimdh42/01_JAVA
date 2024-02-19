@@ -50,14 +50,14 @@ public class Run {
             employee[count] = new Employee(name, age, height, weight, salay, dept);
             count++;
 
-            System.out.print("Y를 누르면 계속 추가됩니다. : ");
-            char input = sc.nextLine().toUpperCase().charAt(0);
+            System.out.print("Y를 누르면 계속 추가됩니다 : ");
+            char input = sc.next().toUpperCase().charAt(0);
 
             if( input == 'N'){
                 break;
             }
         }
-        for (int i = 0; i<count; i++){
+        for (int i = 0; i < count; i++){
             System.out.println(employee[i].emInformation());
         }
     }
