@@ -1,4 +1,4 @@
-package com.ohgiraffers.hw1.model.dto;
+package com.ohgiraffers.inheritance.hw1.model.dto;
 
 public class Employee extends Person{
 

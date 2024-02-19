@@ -1,8 +1,7 @@
-package com.ohgiraffers.hw1.run;
+package com.ohgiraffers.inheritance.hw1.run;
 
-import com.ohgiraffers.hw1.model.dto.Employee;
-import com.ohgiraffers.hw1.model.dto.Person;
-import com.ohgiraffers.hw1.model.dto.Student;
+import com.ohgiraffers.inheritance.hw1.model.dto.Employee;
+import com.ohgiraffers.inheritance.hw1.model.dto.Student;
 
 import java.util.Scanner;
 
