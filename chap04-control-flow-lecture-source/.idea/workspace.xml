@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c069ff04-4573-4bcb-b46e-dbe900793561" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../chap02-operator-lecture-source/src/main/java/com/ohgiraffers/section06" beforeDir="false" afterPath="$PROJECT_DIR$/../chap02-operator-lecture-source/src/main/java/com/ohgiraffers/section06" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap05-array-lecture-source/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap05-array-lecture-source/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chap06-class-and-object-lecture-source/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../chap06-class-and-object-lecture-source/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,24 +56,24 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.chap04-control-flow-lecture-source [:Application.main()].executor": "Run",
-    "Gradle.chap04-control-flow-lecture-source [:Application1.main()].executor": "Run",
-    "Gradle.chap04-control-flow-lecture-source [:test.main()].executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/dev/lecture_code/JavaFoundation/chap04-control-flow-lecture-source",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/dev/lecture_code/JavaFoundation/chap04-control-flow-lecture-source/src/main/java/org/example/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.chap04-control-flow-lecture-source [:Application.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.chap04-control-flow-lecture-source [:Application1.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.chap04-control-flow-lecture-source [:test.main()].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/dev/lecture_code/JavaFoundation/chap04-control-flow-lecture-source&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/dev/lecture_code/JavaFoundation/chap04-control-flow-lecture-source/src/main/java/org/example/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="chap04-control-flow-lecture-source" />
@@ -111,6 +113,7 @@
       <workItem from="1706845761136" duration="17000" />
       <workItem from="1706845786866" duration="26000" />
       <workItem from="1706845845329" duration="24000" />
+      <workItem from="1708416223924" duration="9000" />
     </task>
     <servers />
   </component>
